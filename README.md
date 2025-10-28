@@ -4,7 +4,7 @@
 This repository contains an anonymized implementation of **SPIRE** (Shared-Private Inter-Regional Encoder), a multi-region latent modeling framework for intracranial neural recordings (i.e. local field potentails (LFPs)). SPIRE learns to disentangle shared and region-specific dynamics across brain areas using GRU-based encoders and decoders, guided by reconstruction, alignment, and disentanglemnt losses.
 
 This work has been submitted to ICLR 2026.
-
+For questions refer to corresponding author or main contributor: Rahil Soroush at rahil.soroush@gmail.com
 ---
 
 ## Overview
